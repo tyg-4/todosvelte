@@ -1,6 +1,6 @@
 
 <script>
-    import { onMount } from 'svelte'; 3.7k (gzipped: 1.6k)
+    import { onMount } from 'svelte';
     import TodoControls from './TodoControls.svelte';
     import TodoItem from './TodoItem.svelte';
     
